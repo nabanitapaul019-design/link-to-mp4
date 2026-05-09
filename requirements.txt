@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+ffmpeg-python
+aiofiles
+request
+PTB
